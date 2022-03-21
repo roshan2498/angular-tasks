@@ -1,0 +1,24 @@
+.pending {
+  color: gray;
+}
+
+.correct {
+  color: green;
+}
+
+.incorrect {
+  color: red;
+  font-weight: bold;
+}
+
+*{
+  font-size: 1.6rem;
+}
+
+.typing{
+  width: 500px;
+  margin-top: 30px;
+  padding: 60px;
+  border: 1px solid red;
+  border-radius: 10px;
+}
