@@ -52,3 +52,17 @@
 .course-card.beginner {
     background: lightsalmon;
 }
+
+button{
+    font-size: 1.2rem;
+    padding: 10px;
+    color: white;
+    background-color: rgb(53, 149, 187);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: rgb(40, 112, 141);
+}
